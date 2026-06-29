@@ -4,6 +4,16 @@ An enterprise-grade, automated backend workflow built in n8n designed to handle 
 
 ---
 
+## 📊 Workflow Visual Canvas
+
+Below is the live structure of the automation pipeline:
+
+<img width="1865" height="808" alt="Screenshot 2026-06-29 222216" src="https://github.com/user-attachments/assets/4ff50ba3-e414-42ff-9b59-46077a09b5ed" />
+
+*Note: Make sure to upload your workflow image to your repository and name it `workflow.jpg` so it displays perfectly here.*
+
+---
+
 ## 🚀 Key Features
 
 * **Bulk File Management**: Specifically architected as a **100+ file solution** to systematically discover and handle high volumes of files from Google Drive.
